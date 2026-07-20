@@ -1,9 +1,3 @@
-# UAS Statistik dan Probabilitas - Bagian B
-# Regresi Linear Sederhana: Ukuran Dataset vs Waktu Eksekusi Algoritma Sorting
-# Nama  : Syauqi Nuzul Abdi
-# NIM   : 202512042 (Genap)
-# Prodi : Teknik Informatika - Kelas Pagi
-
 import numpy as np
 from scipy import stats
 import matplotlib.pyplot as plt
