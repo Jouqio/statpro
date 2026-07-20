@@ -1,9 +1,3 @@
-# UAS Statistik dan Probabilitas - Bagian A
-# Korelasi Pearson & Heatmap: Faktor Kualitas Kode vs Jumlah Bug
-# Nama  : Syauqi Nuzul Abdi
-# NIM   : 202512042 (Genap)
-# Prodi : Teknik Informatika - Kelas Pagi
-
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
